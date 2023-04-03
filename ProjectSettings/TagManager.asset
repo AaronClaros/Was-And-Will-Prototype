@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Wall Multicolor
+  - Box Multicolor
+  - Void
+  - Green Box
+  - Green Wall
+  - Red Box
+  - Red Wall
+  - Blue Box
+  - Blue Wall
+  - Paradox Box
+  - Paradox Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player Info
+    uniqueID: 3629904257
+    locked: 0
